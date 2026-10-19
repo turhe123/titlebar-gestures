@@ -4,6 +4,8 @@
 
 **Resize, close, and snap windows with scroll and pinch gestures over the title bar.**
 
+> 🆓 A free, open-source **Swish alternative** for macOS 14+. Native Swift, no accounts, no subscriptions, MIT licensed.
+
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
 ![Swift 5.9](https://img.shields.io/badge/Swift-5.9-orange)
 ![License MIT](https://img.shields.io/badge/License-MIT-green)
@@ -96,6 +98,10 @@ TitlebarGestures is free and always will be. If it saves you some clicks, you ca
 [Support Or (Leo) Davidai ❤️](https://ko-fi.com/leodavidai)
 
 The same link is available from the app's menu and Settings window ("Support / Donate ❤️").
+
+## More free Mac apps
+
+TitlebarGestures is one of [60 free, open-source Mac utilities](https://github.com/turhe123/mac-apps) built the same way: native Swift, no accounts, no telemetry. Browse the full gallery at [turhe123.github.io/mac-apps](https://turhe123.github.io/mac-apps/).
 
 ## License
 
