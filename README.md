@@ -1,5 +1,7 @@
 # TitlebarGestures
 
+**🌐 Website:** [turhe123.github.io/titlebar-gestures](https://turhe123.github.io/titlebar-gestures/)
+
 **Resize, close, and snap windows with scroll and pinch gestures over the title bar.**
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -34,7 +36,21 @@ TitlebarGestures is a free, open-source, 100% native, backend-free alternative t
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-gesture-settings.png" alt="TitlebarGestures Settings window with gesture-to-action mappings" width="720"></p>
+
+<p align="center"><em>The Settings window maps each title-bar gesture (swipes, pinches and middle click) to a window action like Left Half, Maximize or Close.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-safeguards.png" alt="Settings window scrolled to Safeguards and General sections" width="560"></p>
+
+<p align="center"><em>Safeguards let you require a modifier key, tune sensitivity and the title-bar height, and toggle on-screen feedback and launch at login.</em></p>
+
+<p align="center"><img src="docs/screenshots/03-action-picker.png" alt="Action picker menu listing nine window actions" width="560"></p>
+
+<p align="center"><em>Each gesture can trigger one of nine actions, from snapping to a half of the screen to moving the window to the next display.</em></p>
+
+<p align="center"><img src="docs/screenshots/04-menu.png" alt="TitlebarGestures menu-bar menu" width="560"></p>
+
+<p align="center"><em>The menu-bar menu lets you turn gestures on or off, open Settings, or quit.</em></p>
 
 ## Install
 

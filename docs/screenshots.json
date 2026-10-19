@@ -1,0 +1,6 @@
+[
+  {"file":"01-gesture-settings.png","caption":"The Settings window maps each title-bar gesture (swipes, pinches and middle click) to a window action like Left Half, Maximize or Close.","alt":"TitlebarGestures Settings window with gesture-to-action mappings"},
+  {"file":"02-safeguards.png","caption":"Safeguards let you require a modifier key, tune sensitivity and the title-bar height, and toggle on-screen feedback and launch at login.","alt":"Settings window scrolled to Safeguards and General sections"},
+  {"file":"03-action-picker.png","caption":"Each gesture can trigger one of nine actions, from snapping to a half of the screen to moving the window to the next display.","alt":"Action picker menu listing nine window actions"},
+  {"file":"04-menu.png","caption":"The menu-bar menu lets you turn gestures on or off, open Settings, or quit.","alt":"TitlebarGestures menu-bar menu"}
+]

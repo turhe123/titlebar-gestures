@@ -1,0 +1,60 @@
+{
+  "seo_title": "Title bar gestures for macOS windows",
+  "seo_description": "Free, open-source macOS menu-bar app. Snap, maximize, minimize and close windows with trackpad swipes and pinches over the title bar. Native, offline.",
+  "hero_title_line1": "Control windows",
+  "hero_title_accent": "from the title bar",
+  "hero_sub": "Swipe, pinch or middle-click on any window's title bar to snap, maximize, minimize, center or close it. Every gesture is remappable, and an optional modifier key prevents accidents.",
+  "features_title": "Gestures where your pointer is.",
+  "features_sub": "Seven gestures, nine actions, and safeguards so nothing fires by accident.",
+  "features": [
+    {
+      "icon": "cursor",
+      "title": "Seven remappable gestures",
+      "desc": "Swipe left, right, up and down, pinch in, pinch out and middle click each map to an action you choose in Settings."
+    },
+    {
+      "icon": "window",
+      "title": "Nine window actions",
+      "desc": "Left Half, Right Half, Maximize, Restore, Center, Minimize, Close, Next Display, or None. Restore returns a window to the frame it had before."
+    },
+    {
+      "icon": "shield",
+      "title": "Safeguards against misfires",
+      "desc": "Require a modifier (Option, Command, Control or Shift), tune sensitivity, and rely on one action per gesture. Closing needs a modifier and a short confirmation tick."
+    },
+    {
+      "icon": "sliders",
+      "title": "Adjustable title bar zone",
+      "desc": "The active band defaults to 28 pt and can be set from 16 to 64 pt. Buttons, search fields and tabs in the title bar keep their normal behavior."
+    },
+    {
+      "icon": "display",
+      "title": "Multi-display aware",
+      "desc": "Snapping uses the visible area of the screen the window is on, and Next Display moves it to the following screen. Full-screen windows are left alone."
+    },
+    {
+      "icon": "bolt",
+      "title": "Quiet menu-bar app",
+      "desc": "Lives in the menu bar with an Enabled toggle, shows a brief on-screen label for each action, and can launch at login. No Dock icon."
+    }
+  ],
+  "permissions_step": "Grant Accessibility and Input Monitoring to TitlebarGestures in System Settings > Privacy & Security; the banner in Settings has buttons for both.",
+  "faq": [
+    {
+      "q": "Is TitlebarGestures really free and open source?",
+      "a": "Yes. It is released under the MIT license, with no account, no server and no paid tier. If it saves you time, an optional Ko-fi donation is available from the app's menu and Settings window."
+    },
+    {
+      "q": "What permissions does it need?",
+      "a": "Accessibility, to find the window under the pointer and move, resize, minimize or close it, and Input Monitoring, to read scroll, pinch and middle-click events. It does not ask for Screen Recording or Microphone access and does not read window contents."
+    },
+    {
+      "q": "Where is my data stored?",
+      "a": "Your gesture mappings and settings are stored in UserDefaults on your Mac. The app has no analytics and makes no network connections."
+    },
+    {
+      "q": "Why isn't the app notarized?",
+      "a": "Notarization requires a paid Apple Developer account, and this is a free project. Right-click the app and choose Open once to launch it, or build it from source with Xcode and XcodeGen."
+    }
+  ]
+}
